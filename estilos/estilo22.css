@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.box {
+    border: 2px solid #333;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.box {
+    border-top: 5px solid red; /* Ejemplo de border-top */
+    border-bottom: 5px solid blue; /* Ejemplo de border-bottom */
+    margin: 20px; /* Ejemplo de margin */
+    padding: 10px; /* Ejemplo de padding */
+    vertical-align: middle; /* Ejemplo de vertical-align */
+    text-indent: 20px; /* Ejemplo de text-indent */
+}
